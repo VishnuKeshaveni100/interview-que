@@ -1,0 +1,21 @@
+1. What is Sticky bit?
+2. can you write a bash script using loops to print the request ids of the particular strings?
+3. Tell me the CI/CD process?
+4. Tell me the difference between the Continuous Delivery and Contious Deploytment?
+5. what are the different types of pipeline scripts and which one you used?
+6. can you explain about your previous Project?
+7. how can you setup aws multiple accounts with terraform?
+8. How can you manage different Terraform versions for each project?
+9. how do you deploy the application in Kubernetes Cluster?
+10.What is Kubeadm?
+11.if the jenkins server is not accessed, how can you do troubleshooting?
+12.How can you know if it is a public ip or private ip?
+13.what is the purpose of Tagging in docker?
+14.can you just explain the 750 user permission?
+15.How can you do the mounting files in linux?
+17.DO you know about loadbalancers and tell me what are the types of loadbalancers?
+18.what is AWS lambda service and what are the steps to create it?
+19.what is the difference between the RUN and CMD instructions in Docker file?
+20.what are the components of vpc network? how to setup vpc network?
+21.How can you identify whether it is a public ip or private ip?
+
