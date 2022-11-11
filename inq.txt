@@ -1,0 +1,18 @@
+What is Sticky bit?
+can you write a bash script using loops to print the request ids of the particular strings?
+Tell me the CI/CD process?
+Tell me the difference between the Continuous Delivery and Contious Deploytment?
+what are the different types of pipeline scripts and which one you used?
+can you explain about your Project?
+how to can you setup aws multiple accounts with terraform?
+What is Terraform version?
+how do you deploy the application in Kubernetes Cluster?
+What is Kubeadm?
+if the jenkins server is not accessed, how can you do troubleshooting?
+How can you know if it is a public ip or private ip?
+what is the purpose of Tagging in docker?
+can you just explain the 750 user permission?
+How can you do the mounting files in linux?
+
+
+
