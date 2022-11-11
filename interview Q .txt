@@ -1,0 +1,33 @@
+             ################# Interview Questions #####################
+			 
+1) What are the components of k8s master plane?
+
+Ans:1.Kube-apiserver
+		-> It exposes the Kubernetes API.The kubernetes api is the front end for kubernetes control plane.
+		-> It is used to deploy and execute all operations in kubernetes.
+	2.etcd
+		->It is highly available distributed key value store,which is used to store cluster wide secrets.
+		->It is only accessible by kubeapiserver,as it has sensitive Information.
+	3.Kube-scheduler
+		->It  watches fro newly created pods with no assigned node, and selects a nose for them to run on.
+		->For scheduling decisions include:individual and collective resource requirements.
+		->hardware/software/policy constraints,affinity antiaffinity specifications.
+		->data locality,inter-workload interference, and deadlines.
+	4.Kube-controller-manager
+		->It runs controller processes.
+		->Node Controller:Responsible for noticing and responding when nodes go down.
+		->Job Controller:Watches for Job objects that represent one-off tasks, then creates Pods to run those tasks to completion.
+		->Endpoints controller:Populates the Endpoints object (that is, joins Services & Pods).
+		->Service Account & Token controllers:Create default accounts and API access tokens for new namespaces.
+	5.Cloud-controller-manager
+		->It embeds cloud-specific control logic.
+		->it link your cluster into the cloud provider's API.
+2.How many microservices you have deployed?
+3.Did you worked on cluster autoscaling and pod autoscaler?
+4.what is the differrence b/w transit gateway and vpc peering?
+5.do we have any advantages with transit gateway?
+6.how can we access the database using IAM cross account?
+7.what are the ingress controller components we have?
+8.How do you define ingress rules?
+9.what is the difference b/w resource and limits?
+	
